@@ -1,10 +1,4 @@
-# Hi, I'm Arif 👋
-
-Welcome to my GitHub profile! I'm passionate about software development and have experience with a variety of programming languages and technologies.
-
----
-
-## 🚀 Skills & Technologies
+# Sup, im Arif
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -20,25 +14,13 @@ Welcome to my GitHub profile! I'm passionate about software development and have
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonearif25&show_icons=true&theme=radical" alt="GitHub stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonearif25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
-
-## ⚡ Recent Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alonearif25&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-
+#### [ReunionMisc](https://github.com/alonearif25/reunion-misc) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/reunion-misc) [DiscordImageBase](https://github.com/alonearif25/discordimagebase) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/discordimagebase) [LumetriTees](https://github.com/alonearif25/lumetritees-v4) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/lumetritees-v4) [ColorExtractor](https://github.com/alonearif25/color_extractor) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/color_extractor)
 ---
-
-## 🌐 Socials
 
 <p align="center">
   <a href="https://discord.gg/WtYKSf6gTV"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -48,15 +30,11 @@ Welcome to my GitHub profile! I'm passionate about software development and have
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alonearif25&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
-
-## 📈 Extra
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonearif25&color=blueviolet" alt="Profile views" />
@@ -71,7 +49,3 @@ Welcome to my GitHub profile! I'm passionate about software development and have
 </p>
 
 ---
-
-## 🎯 Fun Fact
-
-- 💡 I'm always learning new things and contributing to open-source projects!

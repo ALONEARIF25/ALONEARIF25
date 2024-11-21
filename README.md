@@ -1,5 +1,3 @@
-# Sup, im Arif
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -18,6 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonearif25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/your-discord-link">
+    <img src="https://img.shields.io/badge/Join%20my%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
+  </a>
+</p>
+
 ---
 #### [ReunionMisc](https://github.com/alonearif25/reunion-misc) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/reunion-misc) [DiscordImageBase](https://github.com/alonearif25/discordimagebase) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/discordimagebase) [LumetriTees](https://github.com/alonearif25/lumetritees-v4) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/lumetritees-v4) [ColorExtractor](https://github.com/alonearif25/color_extractor) ![GitHub repo size](https://img.shields.io/github/repo-size/alonearif25/color_extractor)
 ---
@@ -28,13 +32,6 @@
   <a href="https://www.instagram.com/a1rf.f"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alonearif25&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alonearif25&color=blueviolet" alt="Profile views" />
@@ -42,10 +39,3 @@
   
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/your-discord-link">
-    <img src="https://img.shields.io/badge/Join%20my%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
-  </a>
-</p>
-
----
